@@ -40,3 +40,33 @@ When modifying settings it's best to do so in User Settings and leave the defaul
 
 ### User Settings
 
+<code>
+{
+    "bold_folder_labels": true,
+    "caret_extra_bottom": 2,
+    "caret_extra_top": 2,
+    "caret_extra_width": 2,
+    "draw_white_space": "all",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "match_brackets": true,
+    "match_brackets_angle": true,
+    "match_brackets_braces": true,
+    "match_brackets_content": true,
+    "match_brackets_square": true,
+    "rulers":
+    [
+        80, 120
+    ],
+    "wide_caret": true
+}
+</code>
