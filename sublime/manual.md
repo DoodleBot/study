@@ -2,7 +2,7 @@
 
 ## Package Control
 
-(Package control)[https://packagecontrol.io/installation] is needed to manage packages within Sublime. After installation, press Shift-Command-P to bring up its commands.
+[Package control](https://packagecontrol.io/installation) is needed to manage packages within Sublime. After installation, press Shift-Command-P to bring up its commands.
 
 ## Packages
 
@@ -40,7 +40,7 @@ When modifying settings it's best to do so in User Settings and leave the defaul
 
 ### User Settings
 
-<code>
+<pre><code>
 {
     "bold_folder_labels": true,
     "caret_extra_bottom": 2,
@@ -69,4 +69,4 @@ When modifying settings it's best to do so in User Settings and leave the defaul
     ],
     "wide_caret": true
 }
-</code>
+</code></pre>
