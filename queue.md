@@ -8,6 +8,7 @@ Setups to test out:
 
 ## Frameworks
 * React
+* [AMP (Accelerated Mobile Pages)](https://www.ampproject.org/) - Google optimization system for improving mobile load times.
 
 ## Server
 * Node
