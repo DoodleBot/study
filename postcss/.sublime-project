@@ -1,0 +1,21 @@
+{
+    "folders":
+    [
+        {
+            "path": "src",
+            "follow_symlinks": true,
+            "name": "superman"
+        }
+    ],
+    "settings": {
+        "PostCSSSorting": {
+            "sort-order": ["padding", "margin"],
+            "empty-lines-between-children-rules": 1,
+            "empty-lines-between-media-rules": 1,
+            "preserve-empty-lines-between-children-rules": false,
+            "empty-lines-before-comment": 1,
+            "empty-lines-after-comment": 0,
+            "sort-on-save": true
+        }
+    }
+}

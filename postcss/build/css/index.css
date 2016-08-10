@@ -1,0 +1,20 @@
+body .test {
+    display: block;
+    height: 200px;
+    background-color: #f00;
+    font-size: 16px;
+}
+body h1 {
+    margin: 20px;
+    padding: 40px;
+    color: #f00;
+    font-size: 24px
+}
+body h1:hover {
+    background-color: #00f;
+}
+body .thing {
+    display: inline-block;
+}
+
+/*# sourceMappingURL=index.css.map */

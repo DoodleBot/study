@@ -1,8 +1,9 @@
-# [PostCSS](https://github.com/postcss/postcss)
+# [PostCSS](http://postcss.org/) ([Github](https://github.com/postcss/postcss))
 
 A Node.js module that parses CSS into an Abstract Syntax Tree, then passes that through a set of plugin functions, and then converting the result back into a string which can be output to a file.
 
 ## Resources
+[API](http://api.postcss.org/)
 [Awesome PostCSS](https://github.com/jjaderg/awesome-postcss) - A collaborative list of PostCSS plugins, articles, videos and more. Feel free to contribute!
 
 ## Articles
@@ -33,7 +34,9 @@ A Node.js module that parses CSS into an Abstract Syntax Tree, then passes that 
 #### Linters and Stats
 [doiuse](https://github.com/anandthakker/doiuse) - CSS Linter against doiuse database.
 [StyleLint](http://stylelint.io/) - CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets.
-[StyleLink config standard](https://github.com/stylelint/stylelint-config-standard) - Outfits stylelint with a starting config.
+[StyleLint config standard](https://github.com/stylelint/stylelint-config-standard) - Outfits stylelint with a starting config.
+[Stylelint plugins](https://www.npmjs.com/browse/keyword/stylelint-plugin)
+[Stylelint configs](https://www.npmjs.com/browse/keyword/stylelint-config)
 [BEM Linter](https://github.com/postcss/postcss-bem-linter) - CSS Linter for BEM style conventions.
 [immutable-css](https://github.com/johnotander/immutable-css) - A CSS linter for immutable selectors. Warns when you override classes.
 [cssstats](https://github.com/cssstats/postcss-cssstats) - Reports statistics for css analysis.
@@ -43,8 +46,12 @@ A Node.js module that parses CSS into an Abstract Syntax Tree, then passes that 
 [css2modernizr](https://github.com/vovanbo/css2modernizr) - Analyze your CSS and output only used Modernizr's settings.
 [Vertical Rhythm](https://github.com/markgoodyear/postcss-vertical-rhythm) - A PostCSS plugin to create a custom vertical rhythm unit from the base font-size and line-height.
 
+## Build Tools
+[gulp-postcss](https://github.com/postcss/gulp-postcss)
+[gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps)
+
 ## Sublime plugins
-[PostCSS Sorting](https://packagecontrol.io/packages/PostCSS%20Sorting) - Sort CSS rules content with specified order.
+[PostCSS Sorting](https://packagecontrol.io/packages/PostCSS%20Sorting) - Sort CSS rules content with specified order. [documentation for sorting rules](https://github.com/hudochenkov/postcss-sorting#options)
 [PostCSS Syntax Highlighting](https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20PostCSS)
 
 ## Potential Issues

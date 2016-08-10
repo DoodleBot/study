@@ -1,0 +1,1158 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"sld",
+				"slidesTablet"
+			],
+			[
+				"slides",
+				"slidesDesktop"
+			],
+			[
+				"posi",
+				"positionFlag"
+			],
+			[
+				"inser",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"dis",
+				"disclaimerHide"
+			],
+			[
+				"disclaim",
+				"disclaimerShow"
+			],
+			[
+				"discla",
+				"disclaimerControls"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"table",
+				"table-layout"
+			],
+			[
+				"ul",
+				"ultramagnetic"
+			],
+			[
+				"prod",
+				"product-results-columns.js"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"gra",
+				"gradient-top($height: 60px,  $gradient-color: #ebebeb,  $bg-color: transparent)	 _mixins.scss"
+			],
+			[
+				"textra",
+				"text-transform"
+			],
+			[
+				"founda",
+				"foundation-sans-bold()	 _fonts.scss"
+			],
+			[
+				"foun",
+				"foundation-sans-roman()	 _fonts.scss"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fo",
+				"foundation-sans-roman()	 _fonts.scss"
+			],
+			[
+				"lt",
+				"lt-tablet	 _fun-fact.scss"
+			],
+			[
+				"desktop",
+				"desktop-only	 _overview.scss"
+			],
+			[
+				"fou",
+				"foundation-sans-bold()	 _fonts.scss"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"custom",
+				"custom-select	 _product-quote.scss"
+			],
+			[
+				"product-re",
+				"product-results-bg-color	 _product-results.scss"
+			],
+			[
+				"quote",
+				"quote-container	 _product-results.scss"
+			],
+			[
+				"img",
+				"img-container	 _thirty-seventy.scss"
+			],
+			[
+				"product",
+				"product-results.js"
+			],
+			[
+				"outer",
+				"outer-table-wrapper	 _product-compare.scss"
+			],
+			[
+				"colorLig",
+				"colorLightYellow	 _product-compare.scss"
+			],
+			[
+				"colorP",
+				"colorPaleDirtyYellow	 _product-compare.scss"
+			],
+			[
+				"colorDar",
+				"colorDarkDivider	 _product-compare.scss"
+			],
+			[
+				"curre",
+				"currentQuery"
+			],
+			[
+				"curr",
+				"currentQuery"
+			],
+			[
+				"tel",
+				"text-align"
+			],
+			[
+				"ultr",
+				"ultramagnetic()	 _fonts.scss"
+			],
+			[
+				"conte",
+				"content-box"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"lead",
+				"lead-img	 _articles-carousel.scss"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"compo",
+				"components/"
+			],
+			[
+				"texal",
+				"text-align"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"fif",
+				"fifty-fifty.js"
+			],
+			[
+				"texla",
+				"text-align"
+			],
+			[
+				"slide-title",
+				"slide-title	 _articles-carousel.scss"
+			],
+			[
+				"tablec",
+				"table-cell"
+			],
+			[
+				"slide",
+				"slide-content	 _articles-carousel.scss"
+			],
+			[
+				"selling",
+				"selling-points-carousel	 _selling-points-carousel.scss"
+			],
+			[
+				"brand",
+				"brand-color-red	 _buttons.scss"
+			],
+			[
+				"text",
+				"text-color	 _fifty-fifty.scss"
+			],
+			[
+				"fifty-fif",
+				"fifty-fifty-right	 _fifty-fifty.scss"
+			],
+			[
+				"cear",
+				"clearHeight"
+			],
+			[
+				"fiftyFi",
+				"fiftyFiftyContainers"
+			],
+			[
+				"cop",
+				"copy-container	 global.css"
+			],
+			[
+				"tras",
+				"translateX(-50"
+			],
+			[
+				"box",
+				"border-box"
+			],
+			[
+				"offb",
+				"off-black	 _base.scss"
+			],
+			[
+				"liststyl",
+				"list-style-type"
+			],
+			[
+				"tcom-btn-",
+				"tcom-btn-one	 button.css"
+			],
+			[
+				"off",
+				"off-black	 _base.scss"
+			],
+			[
+				"heading",
+				"heading-2	(_headings.scss)"
+			],
+			[
+				"fosi",
+				"font-size-6	 _base.scss"
+			],
+			[
+				"T",
+				"toyota-care-logo.png	w:297 h:89"
+			],
+			[
+				"main",
+				"maintenance"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"_getERF",
+				"_getEFCGlobalDisclaimers"
+			],
+			[
+				"_",
+				"_EFCGlobalDisclaimers"
+			],
+			[
+				"proxied",
+				"proxiedHandleEvent	(fso.js)"
+			],
+			[
+				"verit",
+				"vertical-align"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"_ca",
+				"_cache"
+			],
+			[
+				"_cac",
+				"_cacheElements"
+			],
+			[
+				"siteM",
+				"siteMapIndex"
+			],
+			[
+				"legalt",
+				"legalTermsIndex"
+			],
+			[
+				"priv",
+				"privacyRights"
+			],
+			[
+				"privac",
+				"privacyRightsIndex"
+			],
+			[
+				"fonta",
+				"font-family-thin	 tcom-global-footer.scss"
+			],
+			[
+				"fontfa",
+				"font-family-sans	 fso.scss"
+			],
+			[
+				"visi",
+				"visibility	(modal.scss)"
+			],
+			[
+				"_updateV",
+				"_updateVehicleCardHeights"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"vehi",
+				"vehicles"
+			],
+			[
+				"vhie",
+				"vehicles"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"card",
+				"card-group	 fso.css"
+			],
+			[
+				"teal",
+				"text-align"
+			],
+			[
+				"body",
+				"bodyAppName"
+			],
+			[
+				"LAZ",
+				"LAZYLOAD_SRCSET_TOPIC"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"lazyload",
+				"lazyload=\"true	(lazy-images.js)"
+			],
+			[
+				"preve",
+				"preventDefault	(disclaimers.js)"
+			],
+			[
+				"tcom",
+				"tcom-btn	 styleguide.css"
+			],
+			[
+				"SA",
+				"SAMPLE_EVENT"
+			],
+			[
+				"lazy",
+				"lazyload"
+			],
+			[
+				"SCR",
+				"SCROLL_START	(viewport.js)"
+			],
+			[
+				"def",
+				"deferred"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"over",
+				"overwrite"
+			],
+			[
+				"onScr",
+				"onScrollingComplete"
+			],
+			[
+				"onStar",
+				"onScrollingStart"
+			],
+			[
+				"EFC",
+				"EFC_PAGE_NAME"
+			],
+			[
+				"services",
+				"servicesFlag"
+			],
+			[
+				"modale",
+				"modalElId"
+			],
+			[
+				"modal",
+				"modalElId"
+			],
+			[
+				"moda",
+				"modalElId"
+			],
+			[
+				"_privateBr",
+				"_privateBrowsingTest"
+			],
+			[
+				"Sho",
+				"SHOW_DISCLAIMERS"
+			],
+			[
+				"validate",
+				"validateZipcode"
+			],
+			[
+				"ugzi",
+				"ugzipcodeOptions"
+			],
+			[
+				"ug",
+				"ugzipcodeOptions"
+			],
+			[
+				"valid",
+				"validateZipcode"
+			],
+			[
+				"geo",
+				"geolocationPromise"
+			],
+			[
+				"Fire",
+				"FIRE_TAG"
+			],
+			[
+				"Zipcode",
+				"ZIPCODE_CHANGE"
+			],
+			[
+				"geolocation",
+				"geolocation"
+			],
+			[
+				"_zip",
+				"_zipcode"
+			],
+			[
+				"_zi",
+				"_zipcodeRange"
+			],
+			[
+				"ext",
+				"extend"
+			],
+			[
+				"disc",
+				"disclaimersEl"
+			],
+			[
+				"REG",
+				"REGEX_EFX_DISCLAIMER_CODE"
+			],
+			[
+				"REGE",
+				"REGEX_RIT_DISCLAIMER_CODE"
+			],
+			[
+				"RE",
+				"REGEX_SHORT_CODE"
+			],
+			[
+				"color",
+				"colorizer"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"act",
+				"activeClass"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "run",
+		"selected_items":
+		[
+			[
+				"run",
+				"Run PostCSS Sorting"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package contro",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/smckenna/GitHub/study",
+		"/Users/smckenna/GitHub/study/PostCSS",
+		"/Users/smckenna/GitHub/study/PostCSS/build/css",
+		"/Users/smckenna/GitHub/study/PostCSS/src",
+		"/Users/smckenna/GitHub/study/PostCSS/src/css",
+		"/Users/smckenna/GitHub/study/postcss/src/css"
+	],
+	"file_history":
+	[
+		"/Users/smckenna/GitHub/study/PostCSS/postcss.sublime-project",
+		"/Users/smckenna/GitHub/study/web-components/manual.md",
+		"/Users/smckenna/GitHub/study/queue.md",
+		"/Users/smckenna/GitHub/study/PostCSS/manual.md",
+		"/Users/smckenna/GitHub/study/quick-start-guide.md",
+		"/Users/smckenna/GitHub/study/PostCSS/gulpfile.js",
+		"/Users/smckenna/GitHub/study/postcss/src/css/index.css",
+		"/Users/smckenna/GitHub/study/PostCSS/src/css/index.css",
+		"/Users/smckenna/GitHub/study/PostCSS/.sublime-project",
+		"/Users/smckenna/GitHub/study/PostCSS/build/css/index.css",
+		"/Users/smckenna/GitHub/study/README.md",
+		"/Users/smckenna/GitHub/study/PostCSS/gulp.js",
+		"/Users/smckenna/Sandbox/webpack/bundle.js",
+		"/Users/smckenna/Sandbox/webpack/index.html",
+		"/Users/smckenna/Sandbox/webpack/content.js",
+		"/Users/smckenna/Sandbox/webpack/style.css",
+		"/Users/smckenna/Sandbox/webpack/entry.js",
+		"/Users/smckenna/Sandbox/webpack/webpack.config.js",
+		"/Users/smckenna/Documents/Projects/Pepsi/cap-n-crunch/business/projector-time-codes.txt",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files/product-detail-with-tabs.html",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/base/_fonts.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/base/_typography.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/_variables.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/base/_typography.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/base/_mixins.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/base/_mixins.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/base/_layout.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/base/_utils.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/base/_scaffolding.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/base/_more-or-less.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/base/_base.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_fifty-fifty.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_tabs.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_tire-service-widget.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/vehicle-lookup.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/tabs.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_tire-service-widget.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/components/_product-detail-tabs.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/components/_product-detail-tabs.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/base/_breakpoints.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_fifty-fifty.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_product-detail.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_thirty-seventy.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/fifty-fifty.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_product-detail-tabs.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/product-results.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_tabs.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/gulp/config/sass.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/base/_icons.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/js/main.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files/product-detail-tabs.html",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_product-compare.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_product-compare.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/js/main.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/js/main.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/main.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/product-carousel.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/best-in-class-carousel.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_product-detail-tabs.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/subnav.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/_variables.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_selling-points-carousel.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/components/_selling-points-carousel.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/_variables.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/components/_selling-points-carousel.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/_variables.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/images/icon/test.txt",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/components/_overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/components/_overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files/oil-change-overview.html",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files/batteries-overview.html",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files/brakes-overview.html",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_about-us.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_about-us.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_overview-thumbnail-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_overview-basic-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_overview-price-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_selling-points-carousel.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files/selling-points-carousel.html",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/components/_overview-price-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_overview-price-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/components/_overview-price-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/components/_overview-basic-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/components/_overview-thumbnail-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/components/_overview-basic-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/components/_overview-thumbnail-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_overview-basic-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_overview-thumbnail-item.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_components.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/components/_components.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/components/_components.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/base/_base.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/base/_base.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/base/_overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/base/_overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_batteries-overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/base/_overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/base/_base.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_components.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_oil-change-overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_oil-change-overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_brakes-overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_brakes-overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files/fifty-fifty.html",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/base/_scaffolding.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/base/_overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/wheelworks/scss/components/_brakes-overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/tiresplus/scss/components/_brakes-overview.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/base/_modal.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files/product-compare.html",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/common/accordion.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/base/_accordion.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/base/_accordion.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_articles-carousel.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/articles-carousel.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/guarantee-carousel.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/more-products-carousel.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/overview-carousel.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/selling-points-carousel.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_articles-carousel.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files/articles-carousel.html",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/product-results-columns.js",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/scss/components/_product-results-columns.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/fcac/scss/components/_product-results-columns.scss",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files/product-results-columns.html",
+		"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global/js/components/battery-quote.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/gulp/",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/gulp",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global,/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/global",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/",
+			"/Users/smckenna/Git/bsro/AEM_Components/bsro-aem-ui/src/ui-build/ui/bsro/html-test-files",
+			"",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom/src/main/webapp",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom/src/main/webapp/js",
+			"",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom-ui/src/main/webapp/organisms/tcom-global-header",
+			"",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom-ui/src/main/webapp",
+			"",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom-ui/src/main/webapp,/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom/src/main/webapp/js,/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/common/src/main/webapp/js",
+			"",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom/",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom-ui/",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom-ui/src/main/webapp",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom-ui/",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom-ui/src/",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom-ui/src/main/webapp",
+			"",
+			"/Users/smckenna/toyota_responsive/ToyotaResponsiveUI/tcom/src/main/webapp/js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"@include foundation-sans-roman();",
+			"@include",
+			"@include ultramagnetic();",
+			" no-collapse",
+			"dcdcdb",
+			"#dcdcdc",
+			"colorTabBG",
+			"#ebebeb",
+			"tab-nav",
+			"tabnav",
+			"colorPaleYellow",
+			"click",
+			"colorPaleYellow",
+			"\n                ",
+			"colorGreyTab",
+			"colorPaleYellow",
+			"colorGreyTab",
+			".tab-nav",
+			"colorPaleYellow",
+			"& ",
+			" ",
+			".service",
+			".offers-area ",
+			".offer ",
+			"<span class=\"icon\">I</span>",
+			".tab-top",
+			"tab-top",
+			"> .tab-nav ",
+			".tire-service-widget ",
+			".tab-content",
+			"background-color",
+			"trim",
+			"trimDirectiveWhitespaces",
+			"url(\"data:image/svg+xml;charset=utf8,%3Csvgxmlns='http://www.w3.org/2000/svg'width='32px'height='32px'viewBox='0032px32px'%3E\\a%3Cpathstyle='fill:%236d6d6d;'d='M16.1,26.9c-6.1,0-11-4.9-11-11s4.9-11,11-11s11,4.9,11,11C27,22,22.1,26.9,16.1,26.9zM16.1,5.9c-5.5,0-10,4.5-10,10c0,5.5,4.5,10,10,10c5.5,0,10-4.5,10-10C26,10.4,21.6,5.9,16.1,5.9z'/%3E\\a%3Cpolygonstyle='fill:%236d6d6d;'points='21.9,10.721.2,1016.1,15.111,1010.3,10.715.4,15.910.3,2111,21.716.1,16.621.2,21.721.9,2116.8,15.9'/%3E\\a%3C/svg%3E\")",
+			".icon-all-terrain",
+			"            ",
+			"tach",
+			"<path",
+			" style=\"fill:#010101;\"",
+			" style=\"fill:none;\"",
+			"close-button",
+			"tach",
+			"close-button",
+			"total",
+			"self.$('",
+			"self.$(\".",
+			"el.addBack().find",
+			"$tabNav.children()",
+			" = ",
+			"_tabs",
+			"andSelf()",
+			"on",
+			"self.andSelf()",
+			"var ",
+			"$(this)",
+			"$tabContentSection.eq($idx)",
+			"$tabContent.children(\"section\")",
+			"$tabContent.children(\"h3\")",
+			"$(this)",
+			"var ",
+			";",
+			"var ",
+			"$(this)",
+			"var ",
+			"$tabSelect",
+			"var ",
+			"ultra-perform.png",
+			"performance.png",
+			"damPath",
+			"<div class=\"item overview-basic-item\">",
+			"<div class=\"item overview-price-item\">",
+			"<div class=\"item overview-thumbnail-item\">",
+			".item",
+			"border",
+			"carousel",
+			"accordion",
+			"properties",
+			"class=\"item ove",
+			"class=\"item overview",
+			"batteries-overview",
+			"oil-change-overview",
+			"brakes-overview",
+			"batteries-overview",
+			"oil-change-overview",
+			"brakes-overview",
+			"batteries-overview",
+			"class=\"item\"",
+			"overview",
+			"class=\"item\"",
+			"class=\"item",
+			"bulleted-list",
+			":black",
+			"all-terrain",
+			"<path ",
+			"    ",
+			"rect ",
+			"path ",
+			"ultra-perform",
+			"    ",
+			"        ",
+			"style=\"' + $fi",
+			"fill:#FF9900;",
+			"#009900;",
+			"all-terrain",
+			"terrain",
+			"all-terrain",
+			"terrain",
+			"@include icon(",
+			"svg-url",
+			"@include icon",
+			"mountain",
+			"slidesMobile",
+			"1",
+			"2",
+			"3",
+			"1",
+			"2",
+			"3",
+			"4",
+			"1",
+			"2",
+			"3",
+			"1",
+			"2",
+			"3",
+			"slidesTablet",
+			"slidesDesktop",
+			"<img src=\"https://placeholdit.imgix.net/~text?txtsize=28&txt=300%C3%97145&w=300&h=145\" alt=\"FPO image\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<link rel=\"stylesheet\" href=\"/bsro/.build/fcac/clientlib/css/main.css\">",
+			"<script src=\"/bsro/.build/fcac/clientlib/js/main.js\">",
+			"fcac/js/main",
+			"fcac/css/main",
+			"$gray-lighter",
+			"/img/blank.gif",
+			"<script src=\"/tcom-ui/common/js/require.config.js\"></script>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "postcss.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sellingpoints",
+				"ui-build/ui/bsro/html-test-files/selling-points-carousel.html"
+			],
+			[
+				"globaloverviewscss",
+				"ui-build/ui/bsro/global/scss/components/_overview.scss"
+			],
+			[
+				"productcomparescss",
+				"ui-build/ui/bsro/global/scss/components/_product-compare.scss"
+			],
+			[
+				"productcompare",
+				"ui-build/ui/bsro/html-test-files/product-compare.html"
+			],
+			[
+				"productresultscolumnsscss",
+				"ui-build/ui/bsro/fcac/scss/components/_product-results-columns.scss"
+			],
+			[
+				"productresultscolumnsjs",
+				"ui-build/ui/bsro/global/js/components/product-results-columns.js"
+			],
+			[
+				"viewport",
+				"ui-build/ui/bsro/global/js/base/viewport.js"
+			],
+			[
+				"productresultshtml",
+				"ui-build/ui/bsro/html-test-files/product-results-columns.html"
+			],
+			[
+				"localstorescss",
+				"ui-build/ui/bsro/wheelworks/scss/components/_local-store.scss"
+			],
+			[
+				"localstore",
+				"ui-build/ui/bsro/tiresplus/scss/components/_local-store.scss"
+			],
+			[
+				"iconscss",
+				"ui-build/ui/bsro/global/scss/base/_icons.scss"
+			],
+			[
+				"font",
+				"ui-build/ui/bsro/fcac/scss/base/_fonts.scss"
+			],
+			[
+				"colorscss",
+				"common/src/main/webapp/scss/_colors.scss"
+			],
+			[
+				"typo",
+				"tcom-ui/src/main/webapp/base/scss/_typography.scss"
+			],
+			[
+				"type.scss",
+				"common/src/main/webapp/scss/_type.scss"
+			],
+			[
+				"type",
+				"common/src/main/webapp/scss/_type.scss"
+			],
+			[
+				"heading.scss",
+				"tcom/src/main/webapp/common/scss/_headings.scss"
+			],
+			[
+				"colors.scss",
+				"common/src/main/webapp/scss/_colors.scss"
+			],
+			[
+				"breakpoints",
+				"common/src/main/webapp/scss/_breakpoints.scss"
+			],
+			[
+				"media.scss",
+				"common/src/main/webapp/scss/_media.scss"
+			],
+			[
+				"packagere",
+				"Package Control Messages"
+			],
+			[
+				"colorsscss",
+				"common/src/main/webapp/scss/_colors.scss"
+			],
+			[
+				"page",
+				"common/src/main/webapp/bower_components/page/page.js"
+			],
+			[
+				"router",
+				"tcom/src/main/webapp/js/router.js"
+			],
+			[
+				"baseapp",
+				"tcom/src/main/webapp/js/base-app.js"
+			],
+			[
+				"colorselectorscss",
+				"tcom-ui/src/main/webapp/molecules/color-selector/scss/color-selector.scss"
+			],
+			[
+				"colorizerscss",
+				"tcom-ui/src/main/webapp/organisms/colorizer/scss/colorizer.scss"
+			],
+			[
+				"breakpoitns",
+				"common/src/main/webapp/scss/_breakpoints.scss"
+			],
+			[
+				"live",
+				"tcom-apps/gallery/node_modules/grunt-contrib-watch/tasks/lib/livereload.js"
+			],
+			[
+				"require.config.js",
+				"tcom-ui/src/main/webapp/require.config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/GitHub/study/postcss/postcss.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
