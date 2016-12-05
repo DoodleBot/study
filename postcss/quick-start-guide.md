@@ -64,3 +64,10 @@ example:
             }
         }
     }
+
+### Installing Stylelint to Sublime
+
+* install the sublime plugin [Sublime Linter - Stylelint](https://github.com/kungfusheep/SublimeLinter-contrib-stylelint)
+* Add node path to Sublime Linter user settings file under osx ("/usr/local/bin/node")
+* Add the stylelint config to the project [Stylelint config](https://github.com/stylelint/stylelint/blob/master/docs/user-guide/configuration.md)
+* After it adds stylelint to linters list in Sublime Linter user settings, change @disbled to false
