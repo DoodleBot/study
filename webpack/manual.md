@@ -24,7 +24,11 @@ webpack.prod.js
 
 ## Post and Pre Loaders
 
-## Loaders to try
+## Loaders
+
+Perform transformations on resource files. For example, bringing css files into the bundle js.
+
+### Loaders to try
 
 * eslint-loader
 * css-loader - compiles css into js bundle.
@@ -32,11 +36,19 @@ webpack.prod.js
 * url-loader - loads asset into data-url as base-64. Good for inlining smaller images so they don't create another server request.
 * file-loader - loads asset from file.
 
-## Plugins to try
+## Plugins
+
+Billed as doing everything that loaders can't do.
+
+### Plugins to try
 
 * UglifyJsPlugin
 * DefinePlugin
 * ExtractTextPlugin
+
+## Dependency Graph
+
+Webpack processes your application from specified entry points. Each dependency found within the entry points will also be processed without needing to make entry points for each file.
 
 ## Inject Loader
 
