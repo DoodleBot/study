@@ -28,6 +28,7 @@
 * [Emmet](https://packagecontrol.io/packages/Emmet) - Emmet for Sublime Text
 * [jQuery](https://packagecontrol.io/packages/jQuery) - Sublime Text package bundle for jQuery
 * [MarkdownTOC](https://packagecontrol.io/packages/MarkdownTOC) - Generates a table of contents in markdown files.
+* [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter) - Unobtrusively previews color values by underlaying the selected hex codes in different styles, coloring text or gutter icons
 
 ### Syntax Highlighting
 * [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Markdown syntax highlighter for Sublime Text. (must set it as the language default)

@@ -1,0 +1,1 @@
+`npm-run` can be installed globally to more easily run packages than `myNewProject/node_modules/.bin` [kss - global vs local](https://github.com/kss-node/kss-node/wiki/npm-quick-start-guide#installing-globally-vs-locally)
