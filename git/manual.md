@@ -38,10 +38,6 @@ request approval from peers ideally before merging
 
 `git branch -d [branch name]`
 
-### Build files commit comment
-
-FE-BUILD: updating front-end build based on latest code
-
 ### Getting & Creating Projects
 
 | Command                                                           | Description                                |
@@ -104,9 +100,9 @@ FE-BUILD: updating front-end build based on latest code
 
 ### Removing Files and Directories
 
-| Command      | Description                        |
-| ------------ | ---------------------------------- |
-| git clean -f | force delete untracked files |
+| Command       | Description                        |
+| ------------- | ---------------------------------- |
+| git clean -f  | force delete untracked files       |
 | git clean -fd | force delete untracked directories |
 
 ## SSH Key
