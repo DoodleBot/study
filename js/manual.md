@@ -7,3 +7,11 @@
 * become familiar with all lodash functions
 
 
+
+
+
+## Set
+
+## RegExp
+
+
